@@ -20,7 +20,7 @@
 Clone the repository
 
 ```bash
-https://github.com/
+https://github.com/PiyushPrasad01/Deep-Learning-Based-Kidney-Disease-Classification-System
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
